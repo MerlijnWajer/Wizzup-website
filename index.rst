@@ -45,8 +45,16 @@ SRL-Stats
 ~~~~~~~~~
 `SRL-Stats <http://wizzup.org/stats>`_ was created to keep track of the progress
 and use of SRL. SRL *Scripts* can gather statistics from their actions and
-submit them to SRL stats. Currently the most popular script has ran for
+submit them to SRL stats.
+
+Currently the most popular script has ran for
 *954 days, 8:49:00 with 154756 individual commits.*, which is pretty impressive.
+
+.. figure:: img/stats_site.png
+    :scale: 25 %
+
+    The SRL Stats website as on http://stats.villavu.com
+
 
 .. figure:: img/stats.png
     :scale: 50 %
