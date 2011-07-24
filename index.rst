@@ -56,7 +56,13 @@ submit them to SRL stats. Currently the most popular script has ran for
 
 πϱTorrent
 ~~~~~~~~~
-`πϱTorrent <http://wizzup.org/pyroTorrent>`_
+
+`πϱTorrent <http://wizzup.org/pyroTorrent>`_ is a web interface to rTorrent. It
+was written in Python because I got so fed up with all the crappy PHP
+interfaces and generally just PHP being crappy.
+
+It is still work in progress, but it can do some basic stuff like list
+and add torrents.
 
 
 .. figure:: img/pyrotorrent.png
@@ -65,14 +71,21 @@ submit them to SRL stats. Currently the most popular script has ran for
     pyroTorrent showing my sheevaplug seedbox. (Note that none of these
     downloads are illegal, so bite me)
 
+Oh, and `πϱTorrent`_ is really fast compared to any of the PHP web interfaces.
+
 
 Distributed Chat System
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-`DCS <http://wizzup.org/dcs/>`_.
+`DCS <http://wizzup.org/dcs/>`_ was an assignment for the University of
+Amsterdam, we had to form groups and implement a chat protocol similar to IRC.
+Our implementation ended up being quite cool, with only one known bug. One that
+we've never bothered to fix, though.
 
+.. figure:: img/dcs.png
+    :scale: 50 %
 
-
+    The DCS ncursus client running on my Nokia N900.
 
 
 
