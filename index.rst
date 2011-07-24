@@ -22,7 +22,8 @@ SRL
 `SRL <https://villavu.com/>`_ is the first project I ever participated in and it
 has mainly been the base of my current programming knowledge. SRL was
 initially a library created to macroing a game called *Runescape*, but has since
-turned into a community full of cool fruitcakes. The library still works, by the
+turned into a community full of interesting people, talented programmers and
+generally cool fruitcakes. The library still works, by the
 way. SRL has lots of *Scripts* that each perform their own task on *Runescape*.
 
 Simba
