@@ -53,7 +53,9 @@ Currently the most popular script has ran for
 .. figure:: img/stats_site.png
     :scale: 25 %
 
-    The SRL Stats website as on http://stats.villavu.com
+    The SRL Stats website as on http://stats.villavu.com.
+    The design was taken from some free templates site, as I stink at web design
+    - at least for now.
 
 
 .. figure:: img/stats.png
