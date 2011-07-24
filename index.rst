@@ -85,7 +85,7 @@ we've never bothered to fix, though.
 .. figure:: img/dcs.png
     :scale: 50 %
 
-    The DCS ncursus client running on my Nokia N900.
+    The DCS ncurses client running on my Nokia N900.
 
 
 
