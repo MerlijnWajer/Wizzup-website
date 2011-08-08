@@ -33,7 +33,7 @@ Simba
 development of SCAR stagnated and stability decreased, I - along with other
 members of the SRL community - created `Simba <http://wizzup.org/simba>`_.
 Originally created to closely resemble SCAR and to provide an Open Source
-alternative to it, it has now superseded SCAR on `SRL`_. Simba is GPL-3
+alternative to it, it has now superseded SCAR on `SRL`_. `Simba`_ is GPL-3
 licensed.
 
 .. figure:: img/simbalinux.png
@@ -76,11 +76,20 @@ It is still work in progress, but it can do some basic stuff like list
 and add torrents.
 
 
-.. figure:: img/pyrotorrent.png
-    :scale: 40 %
+.. figure:: img/pyrotorrent1.png
+    :scale: 25 %
 
-    pyroTorrent showing my sheevaplug seedbox. (Note that none of these
+    Theme: Light
+
+    pyroTorrent showing my sheevaplug seedbox(e). (Note that none of these
     downloads are illegal, so bite me)
+
+
+.. figure:: img/pyrotorrent2.png
+    :scale: 25 %
+
+    Theme: Dark
+
 
 Oh, and `πϱTorrent`_ is really fast compared to any of the PHP web interfaces.
 
@@ -99,8 +108,6 @@ we've never bothered to fix, though.
     The DCS ncurses client running on my Nokia N900.
 
 
-
-
 Teaching
 --------
 
@@ -111,4 +118,17 @@ My page for students can be found `here <http://wizzup.org/teaching/>`_
 
 .. toctree::
    :maxdepth: 2
+
+Contact
+-------
+
+You can contact me by mailing me (merlijn) at this website; wizzup.org. (I'm
+sure you can construct my email address by now, if you're a human anyway.)
+
+Other Hobbies
+-------------
+
+I like messing around with Linux. In particular I've had a lot of fun with my
+sheevaplug(s) running Gentoo Linux. As for sports; I've been practicing Aikido
+since I was a child, with a few TODO pauses.
 
