@@ -73,13 +73,12 @@ was written in Python because I got so fed up with all the crappy PHP
 interfaces and generally just PHP being crappy.
 
 It is still work in progress, but it can do some basic stuff like list
-and add torrents.
+and add torrents, connect to multiple rtorrents at once, manage users,
+basic login authentication.
 
 
 .. figure:: img/pyrotorrent1.png
     :scale: 25 %
-
-    Theme: Light
 
     pyroTorrent showing my sheevaplug seedbox(e). (Note that none of these
     downloads are illegal, so bite me)
@@ -88,7 +87,7 @@ and add torrents.
 .. figure:: img/pyrotorrent2.png
     :scale: 25 %
 
-    Theme: Dark
+    Login screen.
 
 
 Oh, and `πϱTorrent`_ is really fast compared to any of the PHP web interfaces.
