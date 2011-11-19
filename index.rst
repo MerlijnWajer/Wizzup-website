@@ -9,6 +9,11 @@ Welcome to Wizzup.org
 My name is Merlijn (Boris Wolf) Wajer; born in Amsterdam, 16 December 1990
 I am 20 years old and currently attend the University of Amsterdam.
 
+Blog
+----
+
+My blog can be found at http://blog.wizzup.org
+
 Projects
 --------
 
@@ -29,12 +34,12 @@ way. SRL has lots of *Scripts* that each perform their own task on *Runescape*.
 Simba
 ~~~~~
 
-`SRL`_ was initially interpreted by SCAR, a closed source program. When
-development of SCAR stagnated and stability decreased, I - along with other
-members of the SRL community - created `Simba <http://wizzup.org/simba>`_.
-Originally created to closely resemble SCAR and to provide an Open Source
-alternative to it, it has now superseded SCAR on `SRL`_. `Simba`_ is GPL-3
-licensed.
+`SRL`_ is interpreted by a program called Simba, created by
+members of the SRL community. `Simba <http://wizzup.org/simba>`_.
+Simba can perform many kind of tasks, including faking mouse movements and key
+presses, finding bitmaps and colours and reading text from the screen.
+
+Simba is GPL-3 licensed and Open Source and Free Software.
 
 .. figure:: img/simbalinux.png
     :scale: 25 %
@@ -112,11 +117,11 @@ Teaching
 
 I have been an assistant in some courses at the University of Amsterdam.
 
-My page for students can be found `here <http://wizzup.org/teaching/>`_
-
-
-.. toctree::
-   :maxdepth: 2
+..
+    My page for students can be found `here <http://wizzup.org/teaching/>`_
+    
+    .. toctree::
+       :maxdepth: 2
 
 Contact
 -------
