@@ -13,6 +13,8 @@ Blog
 ----
 
 My blog can be found at http://blog.wizzup.org
+I try to post there regularly, but so far it hasn't worked out.
+The blog is powered by `PWBlog`_.
 
 Projects
 --------
@@ -20,6 +22,22 @@ Projects
 Some of my projects will be quickly covered here, all my other small projects
 can be found on my git hosts, `git.wizzup.org <http://git.wizzup.org/>`_ and my
 `Github account <http://github.com/MerlijnWajer>`_.
+
+Projects I participate in:
+
+    *   `SRL`_
+
+Projects I have started:
+
+    *   `Simba`_ (In collaboration with several SRL developers: Niels AD,
+        Raymond van Venetië, Benjamin Land, John Peel)
+    *   `SRL-Stats`_
+    *   `πϱTorrent`_ (In collaboration with Bas Weelinck)
+    *   `Tracy`_
+    *   `Soxy`_
+    *   `Least`_ (In collaboration with Bas Weelinck)
+    *   `PWBlog`_
+    *   `SNARP`_ (In collaboration with Antonio Ospite)
 
 SRL
 ~~~
@@ -97,6 +115,38 @@ basic login authentication.
 
 Oh, and `πϱTorrent`_ is really fast compared to any of the PHP web interfaces.
 
+Tracy
+~~~~~
+
+**The ptrace convenience library.**
+
+Coming soon...
+
+Soxy
+~~~~
+
+Proxyfier based on `Tracy`_.
+
+Coming soon...
+
+Least
+~~~~~
+
+The not so minimalisitic PDF viewer.
+
+Coming soon...
+
+PWBlog
+~~~~~~
+
+More details will be available later.
+
+SNARP
+~~~~~
+
+Simple Noise Activated Recording in Python.
+
+More details will be made available later.
 
 Distributed Chat System
 ~~~~~~~~~~~~~~~~~~~~~~~
