@@ -7,7 +7,9 @@ Welcome to Wizzup.org
 =====================
 
 My name is Merlijn (Boris Wolf) Wajer; born in Amsterdam, 16 December 1990
-I am 20 years old and currently attend the University of Amsterdam.
+I am 21 years old and currently attend the University of Amsterdam, Master of
+Science in Computational Science after finished a Bachelor of Science in
+Computer Science.
 
 Blog
 ----
@@ -34,10 +36,34 @@ Projects I have started:
     *   `SRL-Stats`_
     *   `πϱTorrent`_ (In collaboration with Bas Weelinck)
     *   `Tracy`_
+    *   `Rubberfuse`_
     *   `Soxy`_
     *   `Least`_ (In collaboration with Bas Weelinck)
     *   `PWBlog`_
     *   `SNARP`_ (In collaboration with Antonio Ospite)
+
+Tracy
+~~~~~
+
+**The ptrace convenience library.**
+
+Initial project was finished succesfully, I hope to open source this soon.
+
+Soxy
+~~~~
+
+Proxyfier based on `Tracy`_.
+
+Coming soon...
+
+Rubberfuse
+~~~~~~~~~~
+
+`Rubberfuse <https://github.com/MerlijnWajer/rubberfuse>`_ is a continuation of
+the work done on Rubberhose-FS by Julian Assange et al.
+Initially this project will focus on bringing a simplified version of Marutukku
+using FUSE, but I plan to eventually switch to device-mapper and extend the
+safety of the rubberhose-fs.
 
 SRL
 ~~~
@@ -115,38 +141,29 @@ basic login authentication.
 
 Oh, and `πϱTorrent`_ is really fast compared to any of the PHP web interfaces.
 
-Tracy
-~~~~~
-
-**The ptrace convenience library.**
-
-Coming soon...
-
-Soxy
-~~~~
-
-Proxyfier based on `Tracy`_.
-
-Coming soon...
-
 Least
 ~~~~~
 
 The not so minimalisitic PDF viewer.
 
-Coming soon...
-
-PWBlog
-~~~~~~
-
-More details will be available later.
+`Least <https://github.com/MerlijnWajer/least>`_ is a very simple OpenGL based
+PDF viewer. We have some great features we wish to implement, but so far I
+have not found the time.
 
 SNARP
 ~~~~~
 
 Simple Noise Activated Recording in Python.
 
-More details will be made available later.
+`SNARP <https://github.com/MerlijnWajer/SNARP>`_ is a very simple noise activated
+audio recording program. I initially wrote this for the Nokia N900, but it
+should work on most Linux desktops.
+
+PWBlog
+~~~~~~
+
+More details will be available later.
+
 
 Distributed Chat System
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,11 +178,31 @@ we've never bothered to fix, though.
 
     The DCS ncurses client running on my Nokia N900.
 
+Other work
+----------
+
+I am an active member of `TechInc <http://techinc.nl>`_, the Amsterdam
+Hackerspace. Projects I am working on (or have worked on) include:
+
+-   The RGB LED wall.
+-   Fluff card game. (In development)
+
+Aside from that I'm also working on some minor projects, including:
+
+-   `Gollision <https://github.com/MerlijnWajer/Gollision>`_, a
+    shoot em up game written in `Go <http://golang.org>`_. The code of this
+    project is not particularly exciting and mostly just meant as an
+    introduction to Go. Don't expect anything to come out of this project until
+    I give it a lot more love.
+-   Several small python snippets such as `unitable
+    <https://github.com/MerlijnWajer/unitable>`_
+
 
 Teaching
 --------
 
-I have been an assistant in some courses at the University of Amsterdam.
+I am (have been) an assistant in some courses at the University of Amsterdam
+since 2009.
 
 ..
     My page for students can be found `here <http://wizzup.org/teaching/>`_
@@ -184,5 +221,5 @@ Other Hobbies
 
 I like messing around with Linux. In particular I've had a lot of fun with my
 sheevaplug(s) running Gentoo Linux. As for sports; I've been practicing Aikido
-since I was a child, with a few TODO pauses.
-
+since I was a child, with a few TODO pauses. I also like reading and music
+(Ambient, Classical, New Wave, Black Metal).
