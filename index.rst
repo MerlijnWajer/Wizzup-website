@@ -46,9 +46,13 @@ Projects I have started:
 Tracy
 ~~~~~
 
-**The ptrace convenience library.**
+Cross architecture System call tracing and injection framework for Linux (\*BSD
+support will hopefully follow).
 
-Initial project was finished succesfully,
+Initial project was for European Credits at the University of Amsterdam.
+Most information can be found on the
+`Git page <https://github.com/MerlijnWajer/tracy>`_; including the
+documentation and our paper/report.
 
 Soxy
 ~~~~
