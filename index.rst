@@ -7,15 +7,15 @@ Welcome to Wizzup.org
 =====================
 
 My name is Merlijn (Boris Wolf) Wajer; born in Amsterdam, 16 December 1990
-I am 21 years old and currently attend the University of Amsterdam, Master of
-Science in Computational Science after finished a Bachelor of Science in
-Computer Science.
+I am 21 years old and currently attend the University of Amsterdam, currently
+going for my Master of Science in Computational Science after finishing a
+Bachelor of Science in Computer Science.
 
 Blog
 ----
 
 My blog can be found at http://blog.wizzup.org
-I try to post there regularly, but so far it hasn't worked out.
+I try to post there regularly, but so far that hasn ot worked out.
 The blog is powered by `PWBlog`_.
 
 Projects
@@ -37,6 +37,7 @@ Projects I have started:
     *   `πϱTorrent`_ (In collaboration with Bas Weelinck)
     *   `Tracy`_
     *   `Rubberfuse`_
+    *   `uinput-mapper`_
     *   `Soxy`_
     *   `Least`_ (In collaboration with Bas Weelinck)
     *   `PWBlog`_
@@ -47,14 +48,38 @@ Tracy
 
 **The ptrace convenience library.**
 
-Initial project was finished succesfully, I hope to open source this soon.
+Initial project was finished succesfully,
 
 Soxy
 ~~~~
 
-Proxyfier based on `Tracy`_.
+Transparent SOCKS5 Proxyfier based on `Tracy`_. See `Tracy`_ for more details.
 
-Coming soon...
+uinput-mapper
+~~~~~~~~~~~~~
+
+`uinput-mapper <https://github.com/MerlijnWajer/uinput-mapper>`_ is a
+simplistic but powerful project to create (virtual) input devices that can be
+fed (and change) events from other input devices. Possible use cases:
+
+- Creating virtual joysticks from a keyboard device. (For example: a device with
+  physical joysticks that exposes keyboard device)
+- Creating a mouse from joystick input.
+
+Immature project, but works for my use cases. I mostly created this for an
+arcade machine that exposed two joysticks as a single keyboard device.
+
+.. figure:: img/uinput.png
+    :scale: 70 %
+
+    map program running
+
+.. figure:: img/uinput2.png
+    :scale: 70 %
+
+    /dev/input *before* the map program is running and while the map program is
+    running.
+
 
 Rubberfuse
 ~~~~~~~~~~
@@ -159,6 +184,16 @@ Simple Noise Activated Recording in Python.
 audio recording program. I initially wrote this for the Nokia N900, but it
 should work on most Linux desktops.
 
+.. figure:: img/snarp.png
+    :scale: 70 %
+
+    SNARP configuration
+
+.. figure:: img/snarp2.png
+    :scale: 70 %
+
+    Running SNARP
+
 PWBlog
 ~~~~~~
 
@@ -184,7 +219,7 @@ Other work
 I am an active member of `TechInc <http://techinc.nl>`_, the Amsterdam
 Hackerspace. Projects I am working on (or have worked on) include:
 
--   The RGB LED wall.
+-   The RGB LED wall. (`lewd <https://github.com/MerlijnWajer/lewd>`_
 -   Fluff card game. (In development)
 
 Aside from that I'm also working on some minor projects, including:
@@ -221,5 +256,5 @@ Other Hobbies
 
 I like messing around with Linux. In particular I've had a lot of fun with my
 sheevaplug(s) running Gentoo Linux. As for sports; I've been practicing Aikido
-since I was a child, with a few TODO pauses. I also like reading and music
+since I was a child, with a few pauses. I also like reading and music
 (Ambient, Classical, New Wave, Black Metal).
