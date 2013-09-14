@@ -7,68 +7,78 @@ Welcome to Wizzup.org
 =====================
 
 My name is Merlijn (Boris Wolf) Wajer; born in Amsterdam, 16 December 1990
-I am 21 years old and currently attend the University of Amsterdam, currently
+I am 22 years old and currently attend the University of Amsterdam, currently
 going for my Master of Science in Computational Science after finishing a
 Bachelor of Science in Computer Science.
 
-Blog
-----
+Contact
+-------
 
-My blog can be found at http://blog.wizzup.org
-I try to post there regularly, but so far that hasn ot worked out.
-The blog is powered by `PWBlog`_.
+You can contact me by mailing me (merlijn) at this website; wizzup.org. (I'm
+sure you can construct my email address by now, if you're a human anyway.)
+
+Alternatively, you can reach me at:
+
+* merlijn (that is, me) at merlijn.xxx
+* merlijn (or 'wizzup', both work) at sexynerd.nl
 
 Projects
 --------
 
 Some of my projects will be quickly covered here, all my other small projects
-can be found on my git hosts, `git.wizzup.org <http://git.wizzup.org/>`_ and my
+can be found on "`Het Grote Bos <http://hetgrotebos.org/wiki>`_",
+the umbrella project for much of my projects,
+or alternative on one of my git hosts,
+`git.wizzup.org <http://git.wizzup.org/>`_ and my
 `Github account <http://github.com/MerlijnWajer>`_.
 
 Projects I participate in:
 
     *   `SRL`_
 
-Projects I have started:
+Projects I have started (and participate in):
 
     *   `Simba`_ (In collaboration with several SRL developers: Niels AD,
         Raymond van Venetië, Benjamin Land, John Peel)
     *   `SRL-Stats`_
     *   `πϱTorrent`_ (In collaboration with Bas Weelinck)
     *   `Tracy`_
-    *   `Rubberfuse`_
+    *   `Rubbernose`_
+    *   `Neversearch`_
     *   `uinput-mapper`_
-    *   `Soxy`_
     *   `Least`_ (In collaboration with Bas Weelinck)
-    *   `PWBlog`_
-    *   `SNARP`_ (In collaboration with Antonio Ospite)
+    *   `SNARP`_
 
 Tracy
 ~~~~~
 
-Cross architecture System call tracing and injection framework for Linux (\*BSD
-support will hopefully follow).
+`Tracy <http://hetgrotebos.org/wiki/Tracy>`_ is a cross architecture System call
+tracing and injection framework for Linux (\*BSD support will hopefully follow).
 
-Initial project was for European Credits at the University of Amsterdam.
-Most information can be found on the
-`Git page <https://github.com/MerlijnWajer/tracy>`_; including the
-documentation and our paper/report.
 
-Soxy
-~~~~
+Neversearch
+~~~~~~~~~~~
 
-Transparent SOCKS5 Proxyfier based on `Tracy`_. See `Tracy`_ for more details.
+`neversearch <http://hetgrotebos.org/wiki/neversearch>`_ is a simple but powerful
+program that allows you to assign tags to files or directories, if your file
+system supports xattr (eXtended ATTRibutes). This can make your life a lot
+easier when managing photos or other files.
+
+There are many possible uses cases, see the neversearch page for more info.
+
 
 uinput-mapper
 ~~~~~~~~~~~~~
 
-`uinput-mapper <https://github.com/MerlijnWajer/uinput-mapper>`_ is a
+`uinput-mapper <http://hetgrotebos.org/wiki/uinput-mapper>`_ is a
 simplistic but powerful project to create (virtual) input devices that can be
 fed (and change) events from other input devices. Possible use cases:
 
 - Creating virtual joysticks from a keyboard device. (For example: a device with
   physical joysticks that exposes keyboard device)
 - Creating a mouse from joystick input.
+- Networked input (it works fine over ssh, etc)
+- Combining or splitting input devices.
 
 Immature project, but works for my use cases. I mostly created this for an
 arcade machine that exposed two joysticks as a single keyboard device.
@@ -85,14 +95,11 @@ arcade machine that exposed two joysticks as a single keyboard device.
     running.
 
 
-Rubberfuse
+Rubbernose
 ~~~~~~~~~~
 
-`Rubberfuse <https://github.com/MerlijnWajer/rubberfuse>`_ is a continuation of
+`Rubberfuse <https://hetgrotebos.org/wiki/rubbernose>`_ is a continuation of
 the work done on Rubberhose-FS by Julian Assange et al.
-Initially this project will focus on bringing a simplified version of Marutukku
-using FUSE, but I plan to eventually switch to device-mapper and extend the
-safety of the rubberhose-fs.
 
 SRL
 ~~~
@@ -184,7 +191,7 @@ SNARP
 
 Simple Noise Activated Recording in Python.
 
-`SNARP <https://github.com/MerlijnWajer/SNARP>`_ is a very simple noise activated
+`SNARP <https://github.com/MerlijnWajer/SNARP>`_ is a noise activated
 audio recording program. I initially wrote this for the Nokia N900, but it
 should work on most Linux desktops.
 
@@ -197,11 +204,6 @@ should work on most Linux desktops.
     :scale: 70 %
 
     Running SNARP
-
-PWBlog
-~~~~~~
-
-More details will be available later.
 
 
 Distributed Chat System
@@ -240,25 +242,40 @@ Aside from that I'm also working on some minor projects, including:
 Teaching
 --------
 
-I am (have been) an assistant in some courses at the University of Amsterdam
+I am an assistant in some courses at the University of Amsterdam
 since 2009.
 
-..
-    My page for students can be found `here <http://wizzup.org/teaching/>`_
-    
-    .. toctree::
-       :maxdepth: 2
+Blog
+----
 
-Contact
--------
+My blog can be found at http://blog.wizzup.org
+I try to post there regularly, but so far that has not worked out.
 
-You can contact me by mailing me (merlijn) at this website; wizzup.org. (I'm
-sure you can construct my email address by now, if you're a human anyway.)
+Hobbies and Interests
+---------------------
 
-Other Hobbies
--------------
+Activism and Freedom
+~~~~~~~~~~~~~~~~~~~~
+
+I have a partiular interest in tools that empower activists. As of 2013, I am
+active in the `Hart voor internet vrijheid
+<http://hartvoorinternetvrijheid.nl>`_ foundation dedicated to fight censorship
+on the internet. If you know of any interesting projects, please do let me know.
+
+Aside from Computer science activism, I also consider myself a
+`Militant Atheist
+<http://www.ted.com/talks/richard_dawkins_on_militant_atheism.html>`_.
+
+Computer Science
+~~~~~~~~~~~~~~~~
 
 I like messing around with Linux. In particular I've had a lot of fun with my
-sheevaplug(s) running Gentoo Linux. As for sports; I've been practicing Aikido
-since I was a child, with a few pauses. I also like reading and music
-(Ambient, Classical, New Wave, Black Metal).
+sheevaplug(s) running Gentoo Linux. These days I use a quad core ARM machine
+called the ODROID U2 as my main desktop.
+
+Music and Sports
+~~~~~~~~~~~~~~~~
+
+As for sports; I've been practicing Aikido since I was a child, with a few pauses.
+
+I also like reading and music: Ambient, Classical, New Wave, Black/Viking Metal.
