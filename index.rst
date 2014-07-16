@@ -11,16 +11,75 @@ I am 22 years old and currently attend the University of Amsterdam, currently
 going for my Master of Science in Computational Science after finishing a
 Bachelor of Science in Computer Science.
 
+My `Curriculum Vitae <http://wizzup.org/cv.html>`_ (detailed contact info removed).
+
+I'm generally very open to all kinds of (weird|cool) questions, so please do not
+hestitate to contact me.
+
 Contact
 -------
 
 You can contact me by mailing me (merlijn) at this website; wizzup.org. (I'm
 sure you can construct my email address by now, if you're a human anyway.)
 
-Alternatively, you can reach me at:
+PGP Key ID: 6F12E4C8
 
-* merlijn (that is, me) at merlijn.xxx
-* merlijn (or 'wizzup', both work) at sexynerd.nl
+
+Teaching
+--------
+
+I regularly assist courses at the University of Amsterdam since 2009.
+If you're a student, please don't hesitate to drop my an email.
+
+Blog
+----
+
+My web log can be found at http://blog.wizzup.org
+I try to post there regularly, but so far that has not worked out.
+
+Hobbies and Interests
+---------------------
+
+Activism and Freedom
+~~~~~~~~~~~~~~~~~~~~
+
+I have a partiular interest in tools that empower activists. As of 2013, I am
+active in the `Hart voor internet vrijheid
+<http://hartvoorinternetvrijheid.nl>`_ foundation dedicated to fight censorship
+on the internet. If you know of any interesting problems or projects,
+please do let me know. Recently I have also gained interest in the Tor project
+and hope to contribute in the near future.
+
+Aside from Computer science activism, I also consider myself a
+`Militant Atheist
+<http://www.ted.com/talks/richard_dawkins_on_militant_atheism.html>`_.
+
+Computer Science
+~~~~~~~~~~~~~~~~
+
+I like messing around with Linux. In particular I've had a lot of fun with my
+sheevaplug(s) running Gentoo Linux. These days I use a Samsung Chromebook
+running Gentoo Linux as my main machine.
+
+The wiki dedicated to mainlining and supporting Exynos hardware is also hosted
+by me on this server. We're still looking for many developers and volunteers:
+
+    http://linux-exynos.org/wiki/Main_Page
+
+Music and Sports
+~~~~~~~~~~~~~~~~
+
+As for sports; I've been practicing Aikido since I was a child, with a few pauses.
+
+I also like reading and music: Ambient, Classical, New Wave, Black/Viking Metal.
+
+The following bands occupy a special place somewhere inside my head:
+
+* Coil (and The Threshold Houseboys Choir)
+* Nine Inch Nails
+* Kraftwerk
+* Rome (not the french rap band)
+* The Cure
 
 Projects
 --------
@@ -99,7 +158,8 @@ Rubbernose
 ~~~~~~~~~~
 
 `Rubberfuse <https://hetgrotebos.org/wiki/rubbernose>`_ is a continuation of
-the work done on Rubberhose-FS by Julian Assange et al.
+the work done on Rubberhose-FS by Julian Assange et al. We're still in the
+planning phase.
 
 SRL
 ~~~
@@ -225,57 +285,5 @@ Other work
 I am an active member of `TechInc <http://techinc.nl>`_, the Amsterdam
 Hackerspace. Projects I am working on (or have worked on) include:
 
--   The RGB LED wall. (`lewd <https://github.com/MerlijnWajer/lewd>`_
--   Fluff card game. (In development)
-
-Aside from that I'm also working on some minor projects, including:
-
--   `Gollision <https://github.com/MerlijnWajer/Gollision>`_, a
-    shoot em up game written in `Go <http://golang.org>`_. The code of this
-    project is not particularly exciting and mostly just meant as an
-    introduction to Go. Don't expect anything to come out of this project until
-    I give it a lot more love.
--   Several small python snippets such as `unitable
-    <https://github.com/MerlijnWajer/unitable>`_
-
-
-Teaching
---------
-
-I am an assistant in some courses at the University of Amsterdam
-since 2009.
-
-Blog
-----
-
-My blog can be found at http://blog.wizzup.org
-I try to post there regularly, but so far that has not worked out.
-
-Hobbies and Interests
----------------------
-
-Activism and Freedom
-~~~~~~~~~~~~~~~~~~~~
-
-I have a partiular interest in tools that empower activists. As of 2013, I am
-active in the `Hart voor internet vrijheid
-<http://hartvoorinternetvrijheid.nl>`_ foundation dedicated to fight censorship
-on the internet. If you know of any interesting projects, please do let me know.
-
-Aside from Computer science activism, I also consider myself a
-`Militant Atheist
-<http://www.ted.com/talks/richard_dawkins_on_militant_atheism.html>`_.
-
-Computer Science
-~~~~~~~~~~~~~~~~
-
-I like messing around with Linux. In particular I've had a lot of fun with my
-sheevaplug(s) running Gentoo Linux. These days I use a quad core ARM machine
-called the ODROID U2 as my main desktop.
-
-Music and Sports
-~~~~~~~~~~~~~~~~
-
-As for sports; I've been practicing Aikido since I was a child, with a few pauses.
-
-I also like reading and music: Ambient, Classical, New Wave, Black/Viking Metal.
+-   Software to control the powerbars: https://github.com/MerlijnWajer/powerbars
+-   The RGB LED wall. (`lewd <https://github.com/MerlijnWajer/lewd>`_)
